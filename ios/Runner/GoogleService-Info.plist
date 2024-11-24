@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>181820053755-pseqtrcl5tjdtf32fktm2t95dfnbvrpa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.181820053755-pseqtrcl5tjdtf32fktm2t95dfnbvrpa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>181820053755-6gpcniv5eshjfftuol778tftn60tqrq1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCD1oVQWDNcty1ecHtRbVcbiMComCMPzKA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181820053755</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.requestfordinner.neuropairs</string>
+	<key>PROJECT_ID</key>
+	<string>neuro-pairs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>neuro-pairs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181820053755:ios:228d4a11e2563f4504f85e</string>
+</dict>
+</plist>

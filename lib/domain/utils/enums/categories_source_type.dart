@@ -1,0 +1,1 @@
+enum CategoriesSourceType { pixabay, assets }

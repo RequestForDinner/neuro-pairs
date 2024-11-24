@@ -1,0 +1,90 @@
+name: neuro_pairs
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_bloc: ^8.1.6
+  auto_route: ^8.3.0
+  firebase_core: ^3.2.0
+  shared_preferences: ^2.2.3
+  google_fonts: ^6.2.1
+  flutter_screenutil: ^5.9.3
+  flutter_svg: ^2.0.10+1
+  firebase_auth: ^5.1.2
+  google_sign_in: ^6.2.1
+  interactive_slider: ^0.2.2
+  intl: ^0.19.0
+  logger: ^2.4.0
+  cloud_firestore: ^5.2.0
+  firebase_storage: ^12.1.2
+  uuid: ^4.4.2
+  path_provider: ^2.1.4
+  http: ^1.2.2
+  transparent_pointer: ^1.0.1
+  rxdart: ^0.28.0
+  collection: ^1.18.0
+  fast_immutable_collections: ^10.2.4
+  lottie: ^2.7.0
+  test: ^1.25.2
+  barcode: ^2.2.8
+  vibration: ^2.0.0
+  audioplayers: ^6.1.0
+  fl_chart: ^0.69.0
+  connectivity_plus: ^6.1.0
+  image_picker: ^1.1.2
+  permission_handler: ^11.3.1
+  device_info_plus: ^10.1.2
+
+
+dev_dependencies:
+  auto_route_generator: ^8.1.0
+  build_runner: ^2.4.11
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/animations/lottie/
+    - assets/raw/
+    - assets/raw/offline_categories/
+    - assets/raw/online_categories/
+    - assets/raw/offline_unique/numbers&letters/
+    - assets/raw/offline_unique/figures/
+    - assets/raw/offline_unique/flags/
+    - assets/raw/offline_unique/colors/
+    - assets/raw/levels/
+    - assets/vector/
+    - assets/sounds/
+    - assets/fonts/montserrat/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/montserrat/Montserrat-ExtraLight.ttf
+          weight: 100
+        - asset: assets/fonts/montserrat/Montserrat-Light.ttf
+          weight: 200
+        - asset: assets/fonts/montserrat/Montserrat-Medium.ttf
+          weight: 300
+        - asset: assets/fonts/montserrat/Montserrat-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/montserrat/Montserrat-SemiBold.ttf
+          weight: 500
+        - asset: assets/fonts/montserrat/Montserrat-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/montserrat/Montserrat-ExtraBold.ttf
+          weight: 700

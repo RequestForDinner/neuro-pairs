@@ -1,0 +1,3 @@
+enum PairsType {
+  sport, vehicle
+}

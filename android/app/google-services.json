@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "181820053755",
+    "project_id": "neuro-pairs",
+    "storage_bucket": "neuro-pairs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181820053755:android:affd5db1a627b48d04f85e",
+        "android_client_info": {
+          "package_name": "com.requestfordinner.neuropairs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181820053755-6gpcniv5eshjfftuol778tftn60tqrq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.requestfordinner.neuropairs",
+            "certificate_hash": "5643759c445aa5b6928b3d52c5e127a1c162847b"
+          }
+        },
+        {
+          "client_id": "181820053755-vo69unde4d6damb4i56v9huvaajjeefr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.requestfordinner.neuropairs",
+            "certificate_hash": "af306f9d471e17b5d70e33a28731b92ba1dd0a39"
+          }
+        },
+        {
+          "client_id": "181820053755-j62hqccuiit7rfnokn7f7rvtor9o465q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfUEIQsNpmiyN7rm2qG4709VFUAvq5IuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181820053755-j62hqccuiit7rfnokn7f7rvtor9o465q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181820053755-0oidirpv7kirtqtll2sa9aeqepemkifr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.requestfordinner.neuropairs.neuroPairs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
